@@ -35,7 +35,7 @@
             , <&pro_micro 7 GPIO_ACTIVE_HIGH>
             , <&pro_micro 8 GPIO_ACTIVE_HIGH>
             , <&pro_micro 9 GPIO_ACTIVE_HIGH>
-            , <&io1 1 GPIO_ACTIVE_HIGH>
+            , <&gpio1 1 GPIO_ACTIVE_HIGH>
             , <&gpio1 2 GPIO_ACTIVE_HIGH>
             , <&gpio1 7 GPIO_ACTIVE_HIGH>
             , <&pro_micro 16 GPIO_ACTIVE_HIGH>

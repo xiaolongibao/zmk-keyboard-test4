@@ -1,0 +1,2 @@
+config SHIELD_TEST4
+    def_bool $(shields_list_contains,test4)
